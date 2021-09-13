@@ -1,0 +1,26 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 5px cornflowerblue;
+    margin: 0px;
+}
+
+.note {
+    font-size: 20px;
+    color: crimson;
+}
+
+.copyright {
+position: fixed ;
+bottom:0;
+background-color: deepskyblue;
+text-align: center;
+width: 100%;
+line-height: 3;
+}
+
+canvas{
+    border: 5px dotted chocolate;
+    border-radius:40px ;
+    box-shadow: 5px 5px 5px coral;
+}
